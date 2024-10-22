@@ -113,7 +113,7 @@ obj1.details();
 
 print(id(obj2));
 
-# ================== 1. Inheritance ================== #
+# ================== 1.Inheritance ================== #
 
 class Parents():
 
@@ -355,7 +355,7 @@ print(result2);
 
 print(result3);
 
-# ================== 2. Polymorphism ================== #
+# ================== 2.Polymorphism ================== #
 
 class Animal():
 
@@ -691,7 +691,7 @@ print(imran._Piaic__testAnouncement); # It's Not Pure Object Oriented
 
 print(imran._totalExpense); # It Python Side Problem Not My Code
 
-# ================== 3. Encapsulation ================== #
+# ================== 3.Encapsulation ================== #
 
 class StudentLogin():
 
@@ -771,7 +771,7 @@ print(sir); # Default Call __Str__ Method
 
 print(type(sir));
 
-# ================== 4. Abstraction ================== #
+# ================== 4.Abstraction ================== #
 
 from abc import ABC, abstractmethod; # ABC Means (Abstract Base Classes)
 
